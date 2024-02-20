@@ -4,12 +4,21 @@ Projenin oluşturulması aşamasında Clean Code prensipleri dikkate alınmışt
 Code First yaklaşımı ile projenin geliştirilmesi hızlandırılmıştır. <br>
 
 # Kullandığım Teknolojiler : <br>
-ASP.NET Core MVC - 6.0 <br>
-Entity Framework <br>
-Microsoft SQL Server  <br>
-HTML, CSS, JavaScript <br>
-N-Tier Architecture  <br>
-Repository Design Pattern  <br>
+🏆 Clean Code, Solıd prensiplerine uyulmuştur
+
+🏆 N Katmanlı Mimari
+
+🏆 Microsoft SQL Server 
+
+🏆Entity Framework 
+
+🏆Code First 
+
+🏆HTML, CSS, JavaScript
+
+🏆ViewComponent
+
+🏆PartialView
 
 ![Foody - Organic Web Sitesi - Google Chrome 20 02 2024 22_14_28](https://github.com/Mustafacalkan/FoodyTekmerUI/assets/128996142/6cc8399c-26de-40ff-bb3e-98389514199d)
 ![Foody - Organic Web Sitesi - Google Chrome 20 02 2024 22_15_09](https://github.com/Mustafacalkan/FoodyTekmerUI/assets/128996142/d0021960-fa09-49f3-844d-9d3215b8cbc9)
